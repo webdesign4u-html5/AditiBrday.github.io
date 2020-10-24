@@ -1,0 +1,16 @@
+.backgrounds{
+	  margin-left: 5em;
+}
+
+.brd_head{
+    text-align: center;
+    font-size: 900 rem;
+    font-weight: bolder;
+    font-style: italic;
+    padding : 0.5em;
+    margin: 0.5 em;
+     color: rgb(29, 26, 224);
+	}
+	body{
+		background-color: rgb(24, 23, 23);
+	}

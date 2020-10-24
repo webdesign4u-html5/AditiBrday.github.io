@@ -1,0 +1,53 @@
+.brd_head{
+    text-align: center;
+    font-size: 180 em;
+    font-weight: bold;
+    font-style: italic;
+    padding : 1.3em;
+    margin: 0.7 em;
+     color: white;
+     }
+
+.wish{
+    padding: 25%;
+    border-top: 10%;
+}
+
+.message{
+    margin: 10% 0 10% 0;
+}
+
+.guessing{
+    padding: 30%;
+}
+body{
+    background-color: black;
+    /*background-image: linear-gradient(to right bottom,#b5e8a4,#89d2a3);*/
+
+    /*background-image: url(./images/collage2.jpg);*/
+}
+.butt{
+    text-align: center;
+    font-size: 90 em;
+    font-weight: bold;
+    font-style: italic;
+    margin: 1 em;
+}
+.brd_div1{
+    text-align: center;
+    font-size: 160 em;
+    font-weight: bold;
+    font-style: oblique ;
+    padding : 2em;
+    margin: 1 em;
+     color: blue;
+}
+.brd_div2{
+    text-align: center;
+    font-size: 160 em;
+    font-weight: bolder;
+    font-style:oblique ;
+    padding : 2em;
+    margin: 1 em;
+     color: yellowgreen;
+}
